@@ -2,7 +2,7 @@
 #### Hi 👋, I'm Hidayah Widowati. 
 ##### Mahasiswa Teknik Informatika.
 
-💻Saat ini saya sedang mengajar pemrograman mobile:
+💻Tabel Tugas Praktikum Pemograman Mobile
 
 | No  | Tgl  | Praktikum ke  | Topik  | Modul | Template Laporan |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
